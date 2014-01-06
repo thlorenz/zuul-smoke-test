@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "test": "zuul --local 3000 test.js"
+  }
+}
